@@ -3,6 +3,8 @@
 This Power BI dashboard provides a detailed overview of **E-Commerce** sales performance.  
 It visualizes key business metrics such as sales, profit, quantity, and customer behavior across states and categories.
 
+## 🖼️ Dashboard Preview
+
 <img width="1388" height="779" alt="image" src="https://github.com/user-attachments/assets/4e13e946-07ee-46e7-9017-3f519b5df8c2" />
 
 
@@ -35,12 +37,6 @@ Identifies which product sub-categories (like Printers and Bookcases) generate t
 - **State filter (e.g., Andhra Pradesh, Bihar, Delhi)**  
 
 These allow focused analysis for specific time periods and regions.
-
----
-
-## 🖼️ Dashboard Preview
-
-![Bishwa E-Commerce Dashboard](./2316454a-d702-4eea-9952-38bc65f06a2b.png)
 
 ---
 
